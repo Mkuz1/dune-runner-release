@@ -1,0 +1,11 @@
+{
+  "versionCode": 41,
+  "versionName": "1.2.31",
+  "sha": "bed49b5",
+  "date": "2026-11-14T13:40:11Z",
+  "notes": "backfill-releases: tag at the running commit; skip versions already released",
+  "apk": "https://raw.githubusercontent.com/Mkuz1/dune-runner-release/main/DuneRunner.apk",
+  "apkSize": 9174074,
+  "ipa": "https://raw.githubusercontent.com/Mkuz1/dune-runner-release/main/DuneRunner.ipa",
+  "ipaSize": 10894612
+}
